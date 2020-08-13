@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-a6b29": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-a6b29"
+        ]
+      }
+    }
+  }
+}
